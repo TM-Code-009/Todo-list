@@ -13,7 +13,7 @@ const poppins: NextFont = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Project Owner Screen",
+  title: "Main screen",
   description: "Manage all your Project in One Place",
 };
 
